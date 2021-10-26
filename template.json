@@ -56,10 +56,10 @@
             "tmpmod": null,
             "superior" : false
           },
-          "wis" : {
-            "key" : "wis",
-            "label" : "COC.stats.wis.label",
-            "abbrev" : "COC.stats.wis.abbrev",
+          "per" : {
+            "key" : "per",
+            "label" : "COC.stats.per.label",
+            "abbrev" : "COC.stats.per.abbrev",
             "base": 10,
             "racial": 0,
             "bonus": 0,
@@ -90,10 +90,10 @@
           "value": 1,
           "max": 20
         },
-        "xp": {
-          "key" : "xp",
-          "label" : "COC.attributes.xp.label",
-          "abbrev" : "COC.attributes.xp.abbrev",
+        "ps": {
+          "key" : "ps",
+          "label" : "COC.attributes.ps.label",
+          "abbrev" : "COC.attributes.ps.abbrev",
           "value": 2,
           "max": 2
         }
@@ -122,11 +122,11 @@
             "malus": 0,
             "mod": 0
           },
-          "magic" : {
-            "key" : "magic",
-            "label": "COC.attacks.magic.label",
-            "abbrev": "COC.attacks.magic.abbrev",
-            "stat": "@stats.int.mod",
+          "pilot" : {
+            "key" : "pilot",
+            "label": "COC.attacks.pilot.label",
+            "abbrev": "COC.attacks.pilot.abbrev",
+            "stat": "@stats.per.mod",
             "enabled": true,
             "base": 0,
             "bonus": 0,
@@ -310,7 +310,7 @@
     "types": [
       "item",
       "capacity",
-      "profile",
+      "tribu",
       "trait",
       "path",
       "encounterWeapon"

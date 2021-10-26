@@ -1,6 +1,6 @@
 {
   "name": "coc",
-  "title": "Chroniques Oubliées Contemporain",
+  "title": "Chroniques Oubliées Contemporain-Bitume",
   "description": "<p>Système Foundry VTT pour <a href='https://www.black-book-editions.fr/catalogue.php?id=477'>Chroniques Oubliées Contemporain</a>.</p><p> *** Rejoignez la communauté Discord FR :<a href='https://discord.gg/pPSDNJk'>https://discord.gg/pPSDNJk</a></p>",
   "version": "0.8.9.5",
   "minimumCoreVersion": "0.8.6",
@@ -53,7 +53,7 @@
     },
     {
       "name": "profiles",
-      "label": "Profils",
+      "label": "Tribu",
       "system": "coc",
       "path": "./packs/profiles.db",
       "entity": "Item",
