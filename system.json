@@ -1,7 +1,7 @@
 {
-  "name": "coc",
+  "name": "coc-Bitume",
   "title": "Chroniques Oubliées Contemporain-Bitume",
-  "description": "<p>Système Foundry VTT pour <a href='https://www.black-book-editions.fr/catalogue.php?id=477'>Chroniques Oubliées Contemporain</a>.</p><p> *** Rejoignez la communauté Discord FR :<a href='https://discord.gg/pPSDNJk'>https://discord.gg/pPSDNJk</a></p>",
+  "description": "<p>Système Foundry VTT pour <a href='https://www.black-book-editions.fr/catalogue.php?id=477'>Chroniques Oubliées Contemporain - BITUME</a>.</p><p> *** Rejoignez la communauté Discord FR :<a href='https://discord.gg/pPSDNJk'>https://discord.gg/pPSDNJk</a></p>",
   "version": "0.8.9.5",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.9",
@@ -89,8 +89,8 @@
   "gridUnits": "m",
   "primaryTokenAttribute": "attributes.hp",
   "secondaryTokenAttribute": null,
-  "url": "https://github.com/ZigmundKreud/coc",
-  "manifest": "https://raw.githubusercontent.com/ZigmundKreud/coc/master/system.json",
-  "download": "https://github.com/ZigmundKreud/coc/archive/refs/tags/0.8.9.5.zip",
+  "url": "https://github.com/taspoff/Bitume",
+  "manifest": "https://github.com/taspoff/Bitume/blob/Bitume/system.json",
+  "download": "https://github.com/taspoff/Bitume/archive/refs/heads/Bitume.zip",
   "license": "LICENCE"
 }
